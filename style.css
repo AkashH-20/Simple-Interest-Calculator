@@ -1,0 +1,53 @@
+body {
+  color: white;
+  background-color: black;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: grey;
+  align-items: center;
+}
+
+.maindiv {
+  border: 2px solid white;
+  border-radius: 20px;
+  background-color: white;
+  padding: 5px;
+  color: black;
+  padding-left: 30px;
+  width: 450px;
+  margin: auto;
+}
+
+label1 {
+  padding-left: 50px;
+}
+
+label2 {
+  padding-left: 20px;
+}
+
+label3 {
+  padding-left: 20px;
+}
+
+p1 {
+  padding-left: 70px;
+}
+
+p2 {
+  padding-left: 70px;
+}
+
+p3 {
+  padding-left: 70px;
+}
+
+p4 {
+  padding-left: 70px;
+}
+
+span {
+  padding-left: 70px;
+}
